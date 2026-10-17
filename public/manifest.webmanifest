@@ -1,0 +1,25 @@
+{
+  "name": "Gojo: Cursed Showdown",
+  "short_name": "Cursed Showdown",
+  "description": "A 3D anime arena fighter starring Gojo Satoru — Lapse Blue, Reversal Red, Hollow Purple and Infinite Void.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07040f",
+  "theme_color": "#0a0616",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
